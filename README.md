@@ -1,5 +1,4 @@
 # BlockchainUV
-****
 
 We offer blockchain and cryptocurrency consulting under the banner Blockchain Ultra-Ventures.
 
@@ -10,14 +9,12 @@ With holistic understanding of the fundamental aspects of technology and prospec
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
 # Supply Chain
-****
 
 This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
 
 [https://github.com/BlockchainUV/SupplyChain](https://github.com/BlockchainUV/SupplyChain)
 
 # Contact Us
-****
 
 [https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
 
