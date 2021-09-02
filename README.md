@@ -19,3 +19,5 @@ This is a Supply Chain smart contract prototype on ethereum blockchain developed
 [https://twitter.com/BlockchainUV](https://twitter.com/BlockchainUV)
 
 [BlockchainUV@gmail.com](mailto:BlockchainUV@gmail.com)
+
+***
